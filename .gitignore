@@ -71,4 +71,4 @@ typings/
 .serverless
 
 # Vue main build
-assets/build
+# assets/build
