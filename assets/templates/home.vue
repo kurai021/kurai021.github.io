@@ -55,7 +55,7 @@ export default {
         {
           icon: "fa fa-envelope fa-2x",
           color: "button email",
-          link: "mailto:admin@kurai021.com"
+          link: "mailto:alexanderarmuelles@riseup.net"
         }
       ],
       speed: 100
